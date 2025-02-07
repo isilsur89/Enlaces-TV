@@ -1,12 +1,12 @@
 {
-   "boton1": "https://www.google.com",
-   "boton2": "https://www.youtube.com",
-   "boton3": "https://www.github.com",
-   "boton4": "https://www.stackoverflow.com",
-   "boton5": "https://www.reddit.com",
-   "boton6": "https://www.linkedin.com",
-   "boton7": "https://www.wikipedia.org",
-   "boton8": "https://www.twitter.com",
-   "boton9": "https://www.instagram.com",
-   "boton10": "https://www.facebook.com"
+   "button1": "https://www.google.com",
+   "button2": "https://www.youtube.com",
+   "button3": "https://www.github.com",
+   "button4": "https://www.stackoverflow.com",
+   "button5": "https://www.reddit.com",
+   "button6": "https://www.linkedin.com",
+   "button7": "https://www.wikipedia.org",
+   "button8": "https://www.twitter.com",
+   "button9": "https://www.instagram.com",
+   "button10": "https://www.facebook.com"
 }
